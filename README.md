@@ -9,7 +9,7 @@ para implementação de rotinas de testes unitários.
 https://documenter.getpostman.com/view/3817254/S1a7X6QU
 
 # Banco de Dados
-Foi utilizado um banco de dados MySQL, que está hospedado gratuítamente em uma 
+Foi utilizado um banco de dados MySQL, que está hospedado gratuitamente em uma 
 máquina virtual disponibilizada pelo site https://freemysqlhosting.net então
 para testar a execução da aplicação não será necessário fazer nenhum ajuste
 na aplicação. 
@@ -19,5 +19,5 @@ no banco a cada nova execução do projeto. Se necessário que os dados não sej
 mais removidos, basta alterar este atributo para "none".
 
 # Requisitos para Execução
-* Java JDK (versao 8 ou superior)
+* Java JDK (versão 8 ou superior)
 * Maven
