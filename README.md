@@ -19,5 +19,5 @@ no banco a cada nova execução do projeto. Se necessário que os dados não sej
 mais removidos, basta alterar este atributo para "none".
 
 # Requisitos para Execução
-Java JDK (versao 8 ou superior)
-Maven
+* Java JDK (versao 8 ou superior)
+* Maven
